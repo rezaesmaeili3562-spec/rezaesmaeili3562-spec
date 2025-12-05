@@ -2,18 +2,18 @@
 <h3 align="center">توسعه‌دهنده Front-End | عاشق React و Next.js</h3>
 
 ---
-<div align="center">
+
 ## 🚀 درباره من
- </div>
+
 - 👨‍💻 توسعه‌دهنده فرانت‌اند با تمرکز بر ساخت وب‌اپلیکیشن‌های سریع و مدرن  
 - 🎯 علاقه‌مند به UI/UX، بهینه‌سازی و نوشتن کد تمیز  
 - 📚 همیشه در حال یادگیری تکنولوژی‌های جدید  
 - 🔍 علاقه‌مند به کار تیمی و مشارکت در پروژه‌های متن‌باز  
 
 ---
-<div align="center">
+
 ## 🛠️ مهارت‌ها و ابزارها
-   </div>
+  
    
 <div align="center">
   
@@ -23,9 +23,9 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
 
-</div>
 
-<div align="center">
+
+
 ### ⚛️ Frameworks & Libraries
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)]()
@@ -35,8 +35,9 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)]()
 </div>
 
-<div align="center">
+
 ### 🔧 Back-End
   
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
+
 </div>
